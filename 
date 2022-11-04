@@ -1,0 +1,88 @@
+[33mcommit bfc8c43896de9b8f6710d546cbc6bc1719b57621[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature/add-js[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeature/add-js[m[33m)[m
+Author: jean <jeanpierre.castillo16@gmail.com>
+Date:   Thu Nov 3 16:48:51 2022 -0400
+
+    <functions>
+
+[33mcommit 06d1a70a7c1894fa8b107abbb426d7a0ce89c2b4[m
+Author: jean <jeanpierre.castillo16@gmail.com>
+Date:   Tue Nov 1 17:31:00 2022 -0400
+
+    <loops>
+
+[33mcommit 946d6e42af7b54553b0c0de6180c98c7f4280ceb[m
+Merge: c6ef1f9 cb778dd
+Author: Fjbuffalo21 <114631936+Fjbuffalo21@users.noreply.github.com>
+Date:   Fri Oct 28 21:27:05 2022 -0400
+
+    Merge pull request #8 from Fjbuffalo21/feature/add-css
+    
+    added CSS to project
+
+[33mcommit cb778ddd350dddb9607067acddf498f57a4673d1[m[33m ([m[1;31morigin/feature/add-css[m[33m, [m[1;32mfeature/add-css[m[33m)[m
+Author: jean <jeanpierre.castillo16@gmail.com>
+Date:   Fri Oct 28 21:21:55 2022 -0400
+
+    added CSS to project
+
+[33mcommit c6ef1f915024885bde496debe55bd414d8c3dbc8[m
+Merge: c7f6496 78042fe
+Author: Fjbuffalo21 <114631936+Fjbuffalo21@users.noreply.github.com>
+Date:   Sun Oct 23 12:24:27 2022 -0400
+
+    Merge pull request #7 from Fjbuffalo21/feature/add-hmtl
+    
+    Feature/add hmtl
+
+[33mcommit 78042fe54fee6a5c9e33ba8165f3c9d46c295126[m[33m ([m[1;31morigin/feature/add-hmtl[m[33m, [m[1;32mfeature/add-hmtl[m[33m)[m
+Merge: 8e6be80 c7f6496
+Author: jean <jeanpierre.castillo16@gmail.com>
+Date:   Fri Oct 21 22:03:13 2022 -0400
+
+    Merge branch 'main' of github.com:Fjbuffalo21/prework-study-guide into feature/add-hmtl
+
+[33mcommit 8e6be808eaea609012d70209c2c48f387b79ab02[m
+Author: jean <jeanpierre.castillo16@gmail.com>
+Date:   Fri Oct 21 22:01:58 2022 -0400
+
+    added code to HTML file
+
+[33mcommit c7f649688edb061d8231ac33d9ee45fdb20f6373[m
+Merge: f443bae 541216f
+Author: Fjbuffalo21 <114631936+Fjbuffalo21@users.noreply.github.com>
+Date:   Sat Oct 15 21:08:05 2022 -0400
+
+    Merge pull request #6 from Fjbuffalo21/feature/starter-code
+    
+    add starter code
+
+[33mcommit 541216f5c61e6d20cd17d4133a498bf488e90a04[m[33m ([m[1;31morigin/feature/starter-code[m[33m, [m[1;32mfeature/starter-code[m[33m)[m
+Author: jean <jeanpierre.castillo16@gmail.com>
+Date:   Sat Oct 15 21:06:36 2022 -0400
+
+    add starter code
+
+[33mcommit f443baeb612219a4dbb2560c601e6d2cab941e62[m
+Merge: a189c60 9532048
+Author: jean <jeanpierre.castillo16@gmail.com>
+Date:   Tue Oct 11 03:03:06 2022 -0400
+
+    Merge branch 'main' of github.com:Fjbuffalo21/prework-study-guide
+
+[33mcommit a189c60fcd7bf6e35d9c7a8613d85e04d2038b85[m
+Author: jean <jeanpierre.castillo16@gmail.com>
+Date:   Tue Oct 11 03:02:17 2022 -0400
+
+    added files
+
+[33mcommit 953204860f44b02125d58e24d84af71848532e1f[m
+Author: Fjbuffalo21 <114631936+Fjbuffalo21@users.noreply.github.com>
+Date:   Tue Oct 11 02:37:11 2022 -0400
+
+    Update README.md
+
+[33mcommit 14d4de2a745c0aaa956a68a5287cbd78c2312602[m
+Author: Fjbuffalo21 <114631936+Fjbuffalo21@users.noreply.github.com>
+Date:   Wed Oct 5 20:17:10 2022 -0400
+
+    Initial commit
